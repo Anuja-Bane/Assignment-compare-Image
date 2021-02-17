@@ -5,7 +5,7 @@ import Table from './component/Table';
 
 
 function App() {
-  const max = 20;
+  const max = 15;
   const Page_Table = 'table';
   const Page_Photo_List = 'images';
   const api = "https://jsonplaceholder.typicode.com/photos";
